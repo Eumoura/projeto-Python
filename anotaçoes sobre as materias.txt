@@ -1,0 +1,156 @@
+Sobre Power BI.  
+. o que é ?
+
+	O Power BI é uma coleção de serviços de software,aplicativos e conectores que trabalham juntos para transformar suas fontes de dados não relacionadas em informações
+coerentes, visualmente envolventes e interativas. Os dados podem estar em uma planilha do Excel ou em uma coleção de data warehouses híbridos locais ou baseados
+na nuvem. Com o Power BI, você pode se conectar facilmente a fontes de dados,visualizar e descobrir conteúdo importante e compartilhá-lo com todas as pessoas
+que quiser.
+
+O Power BI consiste em vários elementos que trabalham juntos, começando com estes três elementos básicos:
+
+ . Um aplicativo de desktop do Windows chamado Power BI Desktop.
+ . Um serviço SaaS (software como serviço) online chamado de serviço do Power BI.
+ . Aplicativos móveis do Power BI para dispositivos Windows, iOS e Android.   
+                        
+. Timeline sample :                       
+. Para ter um ótimo dashboards:
+
+.  Considere seu publico .
+.  Determine seus objetivos .
+.  Conte uma historia para os seus dados .
+.  Forneça contexto . 
+.  Não tente colocar todas as informações na mesma pagina .
+.  Selecione o tipo certo de painel .
+.  Priorize a simplicidade . 
+.  Arredonde seus numeros . 
+.  Seja concistentes com rótulos e formatos de dados . 
+.  Otimize oara múltiplos dispositivos .
+
+ - Quem nunca ouviu a frase "os dados sao o novo petróleo".
+
+. Sobre Python :
+. O que é ?
+
+       	Guido van Rossum começou a trabalhar na linguagem Python no final dos anos 80, como uma sucessora da linguagem de programação ABC, e a lançou pela primeira vez
+em 1991. Python é uma linguagem de programação de alto nível, ágil e interativa; considerada como uma das mais populares atualmente e citada pelo índice da TIOBE
+como a Linguagem de Programação do Ano de 2021. Além disso, é uma ferramenta acessível, gratuita, independente, e que pode ser utilizada em Windows, Mac e Linux.
+ 	Uma grande vantagem do uso de Python são suas inúmeras bibliotecas. Bibliotecas são coleções de códigos pré-compilados que podem ser usados ​​posteriormente em um
+programa para algumas operações específicas bem definidas. Isso torna a programação Python mais simples e conveniente para o programador.
+
+  . Qual das frases a seguir melhor resume o que é Python?
+   R: Uma linguagem de programação interpretada, orientada a objetos, de alto nível e com semântica dinâmica.
+
+	Python é considerada uma das linguagens de programação mais fáceis para um iniciante aprender; Com dedicação e comprometimento, qualquer um pode aprender Python;
+ já que leva tempo para que você explore e domine totalmente as possibilidades que o Python pode oferecer. 
+. De forma geral, podemos usar Python para:
+
+. Criar aplicativos mobile e  web;
+. Fazer análises matemáticas e científicas de dados;
+. Administrar sistemas de computador e automatizar tarefas;
+. Executar tarefas de DevOps;
+. Construir sites, aplicativos, jogos… programas em geral.
+
+Você pode encontrar Python em qualquer lugar. Por exemplo, ele é a base de alguns dos sites mais populares do mundo, incluindo Dropbox, Instagram, Facebook, Pinterest,
+Netflix e Globo.com.
+
+ . Google COLABORATORY :  
+
+ O Colab é construído na nuvem (inclusive está atrelado ao nosso Google Drive, tal qual o Sheets, Docs, etc),  ou seja, uma das suas grandes vantagens é possuir uma RAM
+própria, ou seja, não precisaremos usar a memória do nosso computador! Além disso, no Colab já temos várias bibliotecas pré instaladas e atualizadas, e tal qual o Anaconda,
+não precisaremos instalar muitas delas.  Resumindo, a ferramenta permite que você escreva e execute Python em seu navegador, sem a necessidade de  nenhuma instalação ou configuração
+específica. Para usá-lo, precisamos apenas ter uma conta no gmail.
+
+ 6 Lindos Motivos para começar a aprender Python: 
+1 . O Python é bastante conhecido e utilizado, apesar de não ser a linguagem mais popular que existe;
+2 . Conhecimento em Python é bastante exigido no mercado de trabalho, porém não há muitos profissionais especializados;
+3 . O tempo de aprendizado dos conceitos básicos da linguagem é menor, pois ela foi desenvolvida com a intenção de ser mais simples e acessível;
+4 . Há muito conteúdo sobre Python criado por usuários e você pode contar com a ajuda de uma comunidade atuante e engajada;
+5 . A ferramenta possui diversas bibliotecas de scripts disponíveis, facilitando ainda mais o acesso a soluções e aumentando suas possibilidades;
+6 . Menos tempo de desenvolvimento, já que o código em Python geralmente é mais curto (de 3 a 5 vezes mais curto do que Java, e de 5 a 10 vezes menor do que C ++).
+
+Git E GitHub
+ 
+. Repositório: 
+O repositório é onde ficam todos os arquivos de um projeto. Geralmente, fica armazenado em um servidor remoto para que, através de um software adequado (GIT),
+seja acessado e controlado, permitindo que os programadores tenham acesso adequado às funcionalidades.
+
+O GitHub, além de ser um servidor para projetos, serve como uma rede social para programadores. O seu uso é bastante recomendado. Nele é possível compartilhar
+projetos, criar repositórios (públicos ou privados), e participar do desenvolvimento de outros usuários.
+
+. Primeiros comandos com GIT:
+
+Comandos Basícos :
+
+Comando 	 Funcionalidade
+ git init		 Cria um novo repositório
+
+ git clone caminho_projeto		 Copia um projeto de um servidor remoto
+
+ git status		 Exibe o status dos arquivos modificados
+
+ git log	 	Log do que foi feito
+
+ git branch nome_branch	 Cria uma nova branch
+
+ git branch -b nome_branch	 Copia os dados e cria uma branch nova
+
+ git add nome_arquivo	 Permite que um arquivo seja monitorado e o adiciona para a área de envio
+
+ git add .	 	Adiciona todos os arquivos de uma vez só
+
+ git commit -m “”	 Permite confirmar a adição do arquivo e inserir um comentário
+
+ git push origin nome_branch		 Envia os arquivos para o servidor remoto
+
+ git pull origin nome_branch		 Atualiza o repositório local com os dados do servidor remoto
+
+ git merge nome_branch	 	Mescla arquivos de branchs distintas
+
+Não é preciso se preocupar em decorar todos esses comandos. Alguns são utilizados apenas em situações
+bem específicas e, com a prática do exercício contínuo de envio e manutenção dos arquivos em um projeto,
+conseguiremos lembrar deles naturalmente, fique tranquilo(a)! =) 
+
+O github é um serviço para hospedar e permitir o gerenciamento correto de repositórios. Utilizando a dupla
+git & github podemos enviar nossos projetos e disponibilizá-los para outros desenvolvedores, permitindo o 
+trabalho em equipe e o gerenciamento de todas as versões.
+ 
+No site oficial do git existem algumas recomendações de ferramentas que podem ser utilizadas para facilitar
+a visualização do trabalho que está sendo feito.
+
+Github Desktop:
+Precisa ser instalado e possui integração com o github. É muito popular pela interface adotada e funcionalidades disponíveis.
+
+Gitkraken:
+Possui uma interface intuitiva e de fácil compreensão pelos usuários. Ajuda em todo o processo de monitoramento do projeto.
+
+Gitk :
+Dentro de um repositório local é possível executar o comando gitk e ter acesso a uma interface que facilita a visualização
+da linha de tempo criada.
+
+ATENÇÃO: 
+Se você é Fotográfo , o seu portifólio será uma pasta para as suas fotos. 
+Agora como Programador , o seu portifólio será o App GitHub .
+
+Terminal do GitBash é como se fosse o terminal que vai servir para vocês enviarem códigos do computador para o servidor online 
+Porque se tentar mandar o link do computador de vocês , não vai funcionar .
+
+Comandos Úteis 
+. GIT ADD
+  Faz o staging de tudo , exceto arquivos apagados ( continuarão existindo no remoto ). 
+
+. GIT COMMIT -M " mensagem de commit" 
+ Cada sequência de stagings pode receber uma mensagem de commit informando resumidamente quais modificações estão sendo submetidas.
+
+. GIT PUSH -U ORIGIN NOME_DA_BRANCH
+ Submete todas as modificações em stagin para a branch de destino na origem ( repositório remoto )
+
+. GIT PULL
+ Atualiza o repositório local com modificações que foram realizadas no repositório remoto desde a última sincronização . Vai mesclar (merge) o 
+conteúdo da origem no seu repositório e pode causar conflitos se você nao submeteu modificações recentes .
+
+" git init remote add origin + o link do seu repositório criado no git hub " . 
+
+GIT INIT 
+Nada mais é , que iniciar o seu repositório no seu terminal do git bash .
+
+
