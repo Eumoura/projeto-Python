@@ -1,0 +1,13 @@
+Sobre Power BI. 
+. Timeline sample : 
+.  Considere seu publico .
+.  Determine seus objetivos .
+.  Conte uma historia para os seus dados .
+.  Forneça contexto . 
+.  Não tente colocar todas as informações na mesma pagina .
+.  Selecione o tipo certo de painel .
+.  Priorize a simplicidade . 
+.  Arredonde seus numeros . 
+.  Seja concistentes com rótulos e formatos de dados . 
+.  Otimize oara múltiplos dispositivos .
+
